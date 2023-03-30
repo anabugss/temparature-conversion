@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Red+Hat+Display:wght@300&display=swap');
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Red Hat Display', sans-serif; */
+.calcu {
+    text-align: center;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+    width: 25%;
+}
+.calcu header {
+    background-color: rgb(95, 19, 19);
+    color: white;
+    padding: 2px;
+}
+.calcu form {
+    margin-top: 10px;
+}
+.calcu input {
+    height: 30px;
+    text-align: center;
+    width: 50px;
+}
+.calcu label {
+    padding-left: 10px;
+}
+
+
+
